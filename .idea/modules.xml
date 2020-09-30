@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commons-product/commons-product.iml" filepath="$PROJECT_DIR$/commons-product/commons-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-eureka-server/service-eureka-server.iml" filepath="$PROJECT_DIR$/service-eureka-server/service-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-items/service-items.iml" filepath="$PROJECT_DIR$/service-items/service-items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-products/service-products.iml" filepath="$PROJECT_DIR$/service-products/service-products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul-server/service-zuul-server.iml" filepath="$PROJECT_DIR$/service-zuul-server/service-zuul-server.iml" />
+    </modules>
+  </component>
+</project>
