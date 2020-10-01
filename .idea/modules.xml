@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/commons-product/commons-product.iml" filepath="$PROJECT_DIR$/commons-product/commons-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-config-server/service-config-server.iml" filepath="$PROJECT_DIR$/service-config-server/service-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-eureka-server/service-eureka-server.iml" filepath="$PROJECT_DIR$/service-eureka-server/service-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-items/service-items.iml" filepath="$PROJECT_DIR$/service-items/service-items.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-products/service-products.iml" filepath="$PROJECT_DIR$/service-products/service-products.iml" />
