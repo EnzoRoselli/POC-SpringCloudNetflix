@@ -18,10 +18,6 @@ public class ProductController {
     public Product findById(@PathVariable Long id){
         Product product = productService.findById(id);
 
-//        if(true){
-//            throw new RuntimeException("No se pudo cargar el producto");
-//        }
-
         return product;
     }
 }
